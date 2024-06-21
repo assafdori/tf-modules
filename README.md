@@ -12,7 +12,7 @@ This module creates an EC2 instance with configurable parameters.
 #### Directory Structure
 
 ```
-./modules/module-name
+./module-name
 ├── README.md
 ├── main.tf
 ├── outputs.tf
