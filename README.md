@@ -11,10 +11,11 @@ This module creates an EC2 instance with configurable parameters.
 
 #### Directory Structure
 
-.ec2/
+```
 ├── README.md
 ├── main.tf
 ├── outputs.tf
 └── variables.tf
+```
 
 #### Usage
